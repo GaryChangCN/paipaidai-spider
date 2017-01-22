@@ -5,8 +5,7 @@ var fs = require("fs");
 var lib = {
     "8": "低风险",
     "4": "中风险",
-    "5": "高风险",
-    "test": "测试"
+    "5": "高风险"
 }
 
 var fileName = "4.json";
